@@ -1,6 +1,13 @@
 # Project 04-2D Platformer
 
 ## Implementation
+3 Levels
+Scene Music
+3 Enemy types
+Coins
+Main Menu and End Menu
+Button
+
 
 ## References
 
